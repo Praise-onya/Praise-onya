@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Praise-onya
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Simple Projects
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on exciting and problem resolving data analysis projects, building predictive models and profer data driven decisions
+- 📫 How to reach me www.linkedin.com/in/Praise-onya
 - 😄 Pronouns: ...
-- ⚡ Fun fact: am a fun learner
+- ⚡ Fun fact: The world would not exist without Data!
 
 <!---
 Praise-onya/Praise-onya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
